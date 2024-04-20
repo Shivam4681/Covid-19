@@ -8,10 +8,10 @@ Description:<p>This project is a comprehensive analysis of COVID-19 data utilizi
 
 Theory: <br> 
 Programming Language: Python <br> 
-   Libraries Used: <br> 
-<p>         Pandas: For data manipulation and analysis. <br> 
-            Matplotlib: For data visualization and creating plots. <br> 
-            Seaborn: For statistical data visualization. </p>
+Libraries Used: <br> 
+           1) Pandas: For data manipulation and analysis. <br> 
+           2) Matplotlib: For data visualization and creating plots. <br> 
+           3) Seaborn: For statistical data visualization. 
 
 
 Data Sources: COVID-19 datasets from Kaggle.
