@@ -3,10 +3,10 @@
 <img src="https://techcrunch.com/wp-content/uploads/2020/03/AFRICA-COVID-19-IV.png">
 
 
-Description:<p>This project is a comprehensive analysis of COVID-19 data utilizing Python programming language and its data science libraries. Through Jupyter Notebook, I've explored various aspects of the pandemic, including tracking the spread of the virus, analyzing its impact on different regions, and visualizing trends over time. The aim of this project is to provide insights into the dynamics of the pandemic and aid in understanding its patterns and implications.</p>
+•Description:<p>This project is a comprehensive analysis of COVID-19 data utilizing Python programming language and its data science libraries. Through Jupyter Notebook, I've explored various aspects of the pandemic, including tracking the spread of the virus, analyzing its impact on different regions, and visualizing trends over time. The aim of this project is to provide insights into the dynamics of the pandemic and aid in understanding its patterns and implications.</p>
 
 
-Theory: <br> 
+•Theory: <br> 
 Programming Language: Python <br> 
 Libraries Used: <br> 
            1) Pandas: For data manipulation and analysis. <br> 
@@ -14,10 +14,10 @@ Libraries Used: <br>
            3) Seaborn: For statistical data visualization. 
 
 
-Data Sources: COVID-19 datasets from Kaggle.
+•Data Sources: COVID-19 datasets from Kaggle.
 
 
-Analysis Techniques: <br> 
+•Analysis Techniques: <br> 
 Understanding The Data: import necessary libraries, Load the COVID-19 dataset, Display basic information about the dataset. <br> 
 Data Cleaning: Handling missing values, data formatting, and filtering. <br> 
 Descriptive Statistics: Generate descriptive statistics (mean, median, min, max) for numeric columns, Explore summary statistics for categorical columns. <br> 
@@ -27,12 +27,12 @@ Correlation Analysis: Correlation analysis between confirmed,deaths and recovere
 Advanced Analysis: Calculate the total number of confirmed cases, deaths, and recoveries for each country/region, Identify the countries/regions with the highest number of confirmed cases, deaths, and recoveries, Visualize the distribution of deaths using bar chart. <br> 
 
 
-Tools Used: <br> 
+•Tools Used: <br> 
 Jupyter Notebook: For interactive data analysis and documentation. <br> 
 GitHub: For version control and collaborative development. 
 
 
-Usage: <br> 
+•Usage: <br> 
 Clone the repository to our local machine using Git. <br> 
 Install the required libraries mentioned in the requirements.txt file. <br> 
 Open the Jupyter Notebook file (covid19_analysis.ipynb) using Jupyter Notebook or JupyterLab. <br> 
