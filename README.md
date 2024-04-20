@@ -5,7 +5,7 @@
 Description:<p>This project is a comprehensive analysis of COVID-19 data utilizing Python programming language and its data science libraries. Through Jupyter Notebook, I've explored various aspects of the pandemic, including tracking the spread of the virus, analyzing its impact on different regions, and visualizing trends over time. The aim of this project is to provide insights into the dynamics of the pandemic and aid in understanding its patterns and implications.</p>
 
 Theory:
-<p>Programming Language: Python
+<p>Programming Language: Python /n
    Libraries Used:
             Pandas: For data manipulation and analysis.
             Matplotlib: For data visualization and creating plots.
