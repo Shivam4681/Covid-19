@@ -1,11 +1,11 @@
-COVID-19 Data Analysis Project
-
+<h1>COVID-19 Data Analysis Project</h1>
+<p align="center">
 <img src="https://techcrunch.com/wp-content/uploads/2020/03/AFRICA-COVID-19-IV.png">
 
-Description:
-This project is a comprehensive analysis of COVID-19 data utilizing Python programming language and its data science libraries. Through Jupyter Notebook, I've explored various aspects of the pandemic, including tracking the spread of the virus, analyzing its impact on different regions, and visualizing trends over time. The aim of this project is to provide insights into the dynamics of the pandemic and aid in understanding its patterns and implications.
+Description:This project is a comprehensive analysis of COVID-19 data utilizing Python programming language and its data science libraries. Through Jupyter Notebook, I've explored various aspects of the pandemic, including tracking the spread of the virus, analyzing its impact on different regions, and visualizing trends over time. The aim of this project is to provide insights into the dynamics of the pandemic and aid in understanding its patterns and implications.
 
 Theory:
+
     Programming Language: Python
     Libraries Used:
             Pandas: For data manipulation and analysis.
