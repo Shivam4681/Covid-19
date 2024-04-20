@@ -6,8 +6,8 @@ Description:This project is a comprehensive analysis of COVID-19 data utilizing 
 
 Theory:
 
-Programming Language: Python
-Libraries Used:
+   Programming Language: Python
+   Libraries Used:
             Pandas: For data manipulation and analysis.
             Matplotlib: For data visualization and creating plots.
             Seaborn: For statistical data visualization.
@@ -16,15 +16,23 @@ Data Sources:
 COVID-19 datasets from Kaggle.
 
 Analysis Techniques:
+
 Understanding The Data: import necessary libraries, Load the COVID-19 dataset, Display basic information about the dataset.
+
 Data Cleaning: Handling missing values, data formatting, and filtering.
+
 Descriptive Statistics: Generate descriptive statistics (mean, median, min, max) for numeric columns, Explore summary statistics for categorical columns.
+
 Time Series Analysis: Analyze the trends in confirmed, deaths, and recovered cases over time, Create time-based visualizations.
+
 Geospatial Analysis: Analyze the distribution of cases across different countries/regions, Create geographical visualizations.
+
 Correlation Analysis: Correlation analysis between confirmed,deaths and recovered, Plot correlation on heat map
+
 Advanced Analysis: Calculate the total number of confirmed cases, deaths, and recoveries for each country/region, Identify the countries/regions with the highest number of confirmed cases, deaths, and recoveries, Visualize the distribution of deaths using bar chart.
 
 Tools Used:
+
 Jupyter Notebook: For interactive data analysis and documentation.
 GitHub: For version control and collaborative development.
 
