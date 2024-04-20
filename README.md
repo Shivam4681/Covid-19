@@ -1,6 +1,6 @@
 COVID-19 Data Analysis Project
 
-<img src="[![image](https://github.com/Shivam4681/Covid-19/assets/107171991/c2955f18-55cc-4938-bb24-1372b65b0175)](https://www.verywellhealth.com/thmb/1eYHD55wY3HZtN0mzLDFxZzcaZI=/3000x2000/filters:fill(87E3EF,1)/what-scientists-know-about-covid-19-4800685_final-94a4fe120b4f416a98ee8b134416c939.gif)">
+<img src="https://techcrunch.com/wp-content/uploads/2020/03/AFRICA-COVID-19-IV.png">
 
 Description:
 This project is a comprehensive analysis of COVID-19 data utilizing Python programming language and its data science libraries. Through Jupyter Notebook, I've explored various aspects of the pandemic, including tracking the spread of the virus, analyzing its impact on different regions, and visualizing trends over time. The aim of this project is to provide insights into the dynamics of the pandemic and aid in understanding its patterns and implications.
