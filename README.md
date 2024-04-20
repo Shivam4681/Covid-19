@@ -1,5 +1,5 @@
-h1 {text-align: center;}
 <h1>COVID-19 Data Analysis Project</h1>
+<h1 style="text-align:center;">Here's a Heading in HTML</h1>
 <p align="center">
 <img src="https://techcrunch.com/wp-content/uploads/2020/03/AFRICA-COVID-19-IV.png">
 
