@@ -1,4 +1,4 @@
-<h1 align="center">COVID-19 Data Analysis Project</h1>
+<h1 align="center">COVID-19 Data Analysis Project With Python</h1>
 <p align="center">
 <img src="https://techcrunch.com/wp-content/uploads/2020/03/AFRICA-COVID-19-IV.png">
 
