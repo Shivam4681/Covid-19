@@ -33,14 +33,3 @@
 •GitHub: For version control and collaborative development. 
 
 
-➣ Usage: <br> 
-Clone the repository to our local machine using Git. <br> 
-Install the required libraries mentioned in the requirements.txt file. <br> 
-Open the Jupyter Notebook file (covid19_analysis.ipynb) using Jupyter Notebook or JupyterLab. <br> 
-Follow the instructions within the notebook to execute the code cells and visualize the analysis results. <br> 
-Feel free to explore, modify, or extend the project as per your requirements. <br> 
-
-
-➣ Contributions: <br> 
-Contributions to this project are welcome. If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request on GitHub. <br> 
-
